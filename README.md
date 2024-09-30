@@ -6,9 +6,8 @@
 <br>
 - 📫 Reach me at:<a src="iamfk003@gmail.com">iamfk003@gmail.com</a>
 <!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-<!---
-khan-giter/khan-giter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: ... -->
+<h3>I use:</h3>
+<a href="https://www.w3schools.com/html/"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="60vh"></a>
+<a href="https://www.w3schools.com/Css/"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="60vh"></a>
+<a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="60vh"></a>
