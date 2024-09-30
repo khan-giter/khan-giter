@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <br>
-- 📫 Reach me at:<a src="iamfk003@gmail.com">iamfk003@gmail.com</a>
+- 📫 Reach me at: iamfk003@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <hr>
